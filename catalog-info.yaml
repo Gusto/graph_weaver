@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: graph_weaver
+  name: graph-weaver
   description: "Registered via the Add catalog-info.yaml template."
   annotations:
     github.com/project-slug: Gusto/graph_weaver
